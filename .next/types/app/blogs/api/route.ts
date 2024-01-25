@@ -1,4 +1,4 @@
-// File: /Applications/MAMP/htdocs/appNext/my-app/app/blogs/api/route.js
+// File: /Applications/MAMP/htdocs/appfutsal/my-app/app/blogs/api/route.js
 import * as entry from '../../../../../app/blogs/api/route.js'
 import type { NextRequest } from 'next/server.js'
 

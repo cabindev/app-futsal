@@ -1,4 +1,4 @@
-// File: /Applications/MAMP/htdocs/appNext/my-app/app/blogs/[slug]/page.js
+// File: /Applications/MAMP/htdocs/appfutsal/my-app/app/blogs/[slug]/page.js
 import * as entry from '../../../../../app/blogs/[slug]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
